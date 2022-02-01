@@ -1,7 +1,7 @@
 <h1 align="center">Sup 👋, I'm Ayush Shukla, aka ravanxd</h1>
 <h3 align="center">I am a sophomore @ Manipal Institute of Technology, majoring in Electronics & Communication</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush03shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush03shukla" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayush03shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush03shukla" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush03shukla" alt="ayush03shukla" /></a> </p>
 

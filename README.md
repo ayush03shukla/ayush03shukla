@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **penetration testing.**
 
 - 👯 I’m looking to collaborate on **OpenCV projects.**
+ 
+- 👀 You can checkout my Competitive programming progress @ [https://www.stopstalk.com/user/profile/ayush03shukla](https://www.stopstalk.com/user/profile/ayush03shukla)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush03shukla/ayush03shukla/projects?type=beta](https://github.com/ayush03shukla/ayush03shukla/projects?type=beta)
 

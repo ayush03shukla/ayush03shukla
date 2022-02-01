@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush03shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush03shukla" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush03shukla" alt="ayush03shukla" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush03shukla" alt="ayush03shukla" /></a> </p>
 
 - 🔭 I’m currently working on **improving my Competitive Programming skills & Open Computer vision (OpenCV)**
 

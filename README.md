@@ -17,6 +17,10 @@
 
 - 📫 How to reach me **ayush2003shukla@gmail.com**
 
+<p align="center">
+  <img src="giphy(1).gif" alt="animated" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayushshukla1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushshukla1" height="30" width="40" /></a>

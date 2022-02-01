@@ -17,8 +17,10 @@
 
 - 📫 How to reach me **ayush2003shukla@gmail.com**
 
-<p align="center">
-  <img src="giphy(1).gif" alt="animated" />
+<p align="left">
+  <img src="giphy (1).gif" alt="animated" width="360" height="168" />
+ 
+  <img src="200.webp" alt="animated" height="168" />
 </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving my Competitive Programming skills & Open Computer vision (OpenCV)**
 
-- 🌱 I’m currently learning **penetration testing.**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **OpenCV projects.**
  

@@ -10,7 +10,7 @@
 
 - 👀 You can checkout my Linkedin @ [https://www.linkedin.com/in/ayushshukla1/](https://www.linkedin.com/in/ayushshukla1/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayush03shukla/ayush03shukla/projects?type=beta](https://github.com/ayush03shukla/ayush03shukla/projects?type=beta)
+- 👨‍💻 My Published Research Articles are available at [https://scholar.google.com/citations?user=vXJbNUUAAAAJ&hl=en](https://scholar.google.com/citations?user=vXJbNUUAAAAJ&hl=en)
 
 - 📫 How to reach me **ayush2003shukla@gmail.com**
 

@@ -3,15 +3,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayush03shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush03shukla" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush03shukla" alt="ayush03shukla" /></a> </p>
 
 - 🔭 I’m currently working at the **Christian Doppler Laboratory at the Institute of Electronics , Graz University of Technology, Graz, Austria **
 
 - 🌱 I’m currently working on developing and optimising Power Electronic circuits using various tools such as **UQLAB , OptisLang , Ansys HFSS , CST Microwave studio , LTSpice  and various mathematical techniques and modelling methods such as Kriging , Polynomial Chaos Expansion , to name a few..**
 
-- 👯 I’m looking to collaborate on **OpenCV projects.**
- 
-- 👀 You can checkout my Competitive programming progress @ [https://www.stopstalk.com/user/profile/ayush03shukla](https://www.stopstalk.com/user/profile/ayush03shukla)
+- 👀 You can checkout my Linkedin @ [https://www.linkedin.com/in/ayushshukla1/](https://www.linkedin.com/in/ayushshukla1/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayush03shukla/ayush03shukla/projects?type=beta](https://github.com/ayush03shukla/ayush03shukla/projects?type=beta)
 

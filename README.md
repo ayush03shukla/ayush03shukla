@@ -1,13 +1,13 @@
-<h1 align="center">Sup 👋, I'm Ayush Shukla, aka ravanxd</h1>
-<h3 align="center">I am a sophomore @ Manipal Institute of Technology, majoring in Electronics & Communication</h3>
+<h1 align="center">Hello 👋, I'm Ayush Shukla </h1>
+<h3 align="center">I am a Final Year Student @ Manipal Institute of Technology, majoring in Electronics & Communication</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ayush03shukla&label=Profile%20views&color=0e75b6&style=flat" alt="ayush03shukla" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush03shukla" alt="ayush03shukla" /></a> </p>
 
-- 🔭 I’m currently working on **improving my Competitive Programming skills & Open Computer vision (OpenCV)**
+- 🔭 I’m currently working at the **Christian Doppler Laboratory at the Institute of Electronics , Graz University of Technology, Graz, Austria **
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently working on developing and optimising Power Electronic circuits using various tools such as **UQLAB , OptisLang , Ansys HFSS , CST Microwave studio , LTSpice  and various mathematical techniques and modelling methods such as Kriging , Polynomial Chaos Expansion , to name a few..**
 
 - 👯 I’m looking to collaborate on **OpenCV projects.**
  

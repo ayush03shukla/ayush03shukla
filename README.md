@@ -14,12 +14,12 @@
 
 - 📫 How to reach me **ayush2003shukla@gmail.com**
 
-<p align="left">
+<!-- <p align="left">
   <img src="giphy (1).gif" alt="animated" width="360" height="168" />
  
   <img src="200.webp" alt="animated" height="168" />
 </p>
-
+ -->
 
 
 <h3 align="left">Languages , Tools and Libraries :</h3>
